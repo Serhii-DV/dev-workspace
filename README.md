@@ -3,7 +3,7 @@ Dev-Workspace
 
 Организация рабочего пространства php веб-разработчика под Windows 7
 
-Версия документа 1 (28.11.2012)
+Версия документа 1.x (xx.xx.2012)
 
 ## Инструментарий веб-разработчика (Windows 7)
 
@@ -47,7 +47,7 @@ Dev-Workspace
 ### Верстка
 * Инструменты верстальщика: [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) (основной), [See Through Windows](http://www.mobzystems.com/tools/seethroughwindows/)
 * Публикация скриншотов: [Gyazo](http://gyazo.com/)
-* Сжатие PNG изображений: [pngquant](http://pngquant.org/) и [PNGGaumtlet](http://pnggauntlet.com/) (использовать оба)
+* Сжатие PNG изображений: [pngquant](http://pngquant.org/) и [PNGGauntlet](http://pnggauntlet.com/) (использовать оба)
 * Сжатие JS: [UglifyJS](https://github.com/mishoo/UglifyJS) (зависит от [nodejs](http://nodejs.org/))
 * Сжатие CSS: [YUI Compressor](https://github.com/yui/yuicompressor/downloads)
 
